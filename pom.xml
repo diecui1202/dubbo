@@ -42,11 +42,11 @@
     </licenses>
 
     <scm>
-        <url>https://github.com/apache/incubator-dubbo</url>
-        <connection>scm:git:https://github.com/apache/incubator-dubbo.git</connection>
-        <developerConnection>scm:git:https://github.com/apache/incubator-dubbo.git</developerConnection>
-      <tag>HEAD</tag>
-  </scm>
+        <url>https://github.com/diecui1202/incubator-dubbo</url>
+        <connection>scm:git:https://github.com/diecui1202/incubator-dubbo.git</connection>
+        <developerConnection>scm:git:https://github.com/diecui1202/incubator-dubbo.git</developerConnection>
+        <tag>HEAD</tag>
+    </scm>
     <mailingLists>
         <mailingList>
             <name>Development List</name>
